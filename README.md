@@ -28,8 +28,5 @@ Now the stick is prepared and you can use it on the target device!
 ## Where can I buy it?
 www.ghostshell.de
 
-## FAQ
-Coming soon...
-
 ## Copyright
 - Copyright 2022 © <a href="https://ghostshell.de" target="_blank">ghostshell.de</a>.
