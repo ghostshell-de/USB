@@ -5,9 +5,6 @@
 Ghostshell USB looks like an USB-Drive but is a virtual Keyboard.
 You can use it for multiply pupose, you can use it for penetrationtesting tasks, to automate things or doing other cool hardware hacking stuff.
 
-Together with our Ghostshell Multiplexer, Penetrationtester can use this device to initiate reverse shells.
-Sys-Admins can use it to automate stuff.
-
 ## Features
 + Looks like a USB Drive
 + Simulate a Keyboard 
